@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_1/image_widget.dart';
+//import 'package:flutter_1/image_widget.dart';
 import 'package:flutter_1/text_widget.dart';
 
 void main() {
